@@ -1,0 +1,20 @@
+.boite{
+    width: 1000px;
+    height: 850px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.text{
+    width: 250px;
+    height: 200px;
+}
+
+.photo{
+    border-radius: 20px;
+    width: 600px;
+    height: 382px;
+
+}
